@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhamotharan-k-84" alt="dhamotharan-k-84" /></a> </p>
 
-- 🌱 I’m currently learning **Java Full Stack**
+- 🌱 I’m currently learning **Java Full Stack and SOC**
 
 - 💬 Ask me about **Network Security, Kali Linux, Nmap, Wireshark,**
 
